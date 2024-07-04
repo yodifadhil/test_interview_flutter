@@ -1,0 +1,4 @@
+#Thu Jul 04 13:00:21 WIB 2024
+base.0=/Users/orenji/Personal/Freelance/test_interview_8/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

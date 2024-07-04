@@ -1,0 +1,4 @@
+#Thu Jul 04 10:57:22 WIB 2024
+base.0=/Users/orenji/Personal/Freelance/test_interview_8/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
